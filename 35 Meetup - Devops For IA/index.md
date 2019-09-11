@@ -9,10 +9,10 @@ Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
 
 Em 11 de Setembro de 2019
 
-- [Voltar](./index.md)
+- [Voltar](https://devcsp.github.io/Certificados)
 
 #Palestrantes
 
 #Participantes
 
-- [Voltar](./index.md)
+- [Voltar](https://devcsp.github.io/Certificados)

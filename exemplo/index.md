@@ -9,7 +9,7 @@ Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
 
 Em 11 de Setembro de 2019
 
-- [Voltar](./index.md)
+- [Voltar](https://devcsp.github.io/Certificados)
 
 # Palestrantes
 - [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
@@ -27,4 +27,4 @@ Em 11 de Setembro de 2019
 - [Nome do Participante 9](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
 - [Nome do Participante 10](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
 
-- [Voltar](./index.md)
+- [Voltar](https://devcsp.github.io/Certificados)
