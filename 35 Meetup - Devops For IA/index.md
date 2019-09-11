@@ -12,10 +12,11 @@ Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
 Em 11 de Setembro de 2019
 
 
-#Palestrantes
+# alestrantes
 - [Lucas Humberto Cabrera dos Santos](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/3.pdf)
+- [Igor Conrado Alves de Lima](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/21.pdf)
 
-#Participantes
+# Participantes
 - [Yang Guozhang](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/4.pdf)
 - [João Carlos Calistro](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/5.pdf)
 - [Ana Paula de Souza](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/6.pdf)
@@ -33,7 +34,6 @@ Em 11 de Setembro de 2019
 - [Gabriel Toshiaki Kamigauti ](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/18.pdf)
 - [Renzo Palmieri Sotomayor](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/19.pdf)
 - [Pablo de Azevedo Santos](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/20.pdf)
-- [Igor Conrado Alves de Lima](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/21.pdf)
 - [Victória Gomes](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/22.pdf)
 - [Deymes Rangel Silva Goes](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/23.pdf)
 - [Paulo Victor Leopaci Benini](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/24.pdf)
