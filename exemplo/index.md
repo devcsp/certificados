@@ -9,17 +9,17 @@ Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
 Em 11 de Setembro de 2019
 
 #Palestrantes
-- [Nome do Palestrante 1](./exemplo/arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
-- [Nome do Palestrante 1](./exemplo/arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
+- [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
+- [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
 
 #Participantes
-- [Nome do Participante 1](./exemplo/arquivos/Certificado_De_Participacao_Modelo.pdf)
-- [Nome do Participante 2](./exemplo/arquivos/Certificado_De_Participacao_Modelo.pdf)
-- [Nome do Participante 3](./exemplo/arquivos/Certificado_De_Participacao_Modelo.pdf)
-- [Nome do Participante 4](./exemplo/arquivos/Certificado_De_Participacao_Modelo.pdf)
-- [Nome do Participante 5](./exemplo/arquivos/Certificado_De_Participacao_Modelo.pdf)
-- [Nome do Participante 6](./exemplo/arquivos/Certificado_De_Participacao_Modelo.pdf)
-- [Nome do Participante 7](./exemplo/arquivos/Certificado_De_Participacao_Modelo.pdf)
-- [Nome do Participante 8](./exemplo/arquivos/Certificado_De_Participacao_Modelo.pdf)
-- [Nome do Participante 9](./exemplo/arquivos/Certificado_De_Participacao_Modelo.pdf)
-- [Nome do Participante 10](./exemplo/arquivos/Certificado_De_Participacao_Modelo.pdf)
+- [Nome do Participante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
+- [Nome do Participante 2](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
+- [Nome do Participante 3](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
+- [Nome do Participante 4](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
+- [Nome do Participante 5](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
+- [Nome do Participante 6](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
+- [Nome do Participante 7](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
+- [Nome do Participante 8](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
+- [Nome do Participante 9](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
+- [Nome do Participante 10](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo.pdf)
