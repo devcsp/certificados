@@ -1,6 +1,8 @@
 # Facebook Developer Circles - Certificados
 
-Essa página é dedicada a listar os Meetups do Developer Circles São Paulo onde foram disponibilizados Certificados de Participação. Acesse seu meetup agora e faça download do seu certificado!
+Essa página é dedicada a listar os Meetups do Developer Circles São Paulo onde foram disponibilizados Certificados de Participação. 
+
+Acesse seu meetup agora e faça download do seu certificado!
 
 - [XXº Meetup - Nome do Meetup](./exemplo/index.md)
 

@@ -1,7 +1,9 @@
 # Facebook Developer Circles
 # XXº Meetup - Nome do Meetup
 
-Abaixo estão disponíveis os Certificados de Participação das pessoas que estiveram presentes em nosso Meetup. Essa página também serve como área de comprovação do Certificado.
+Abaixo estão disponíveis os Certificados de Participação das pessoas que estiveram presentes em nosso Meetup. 
+
+Essa página também serve como área de comprovação do Certificado.
 
 Local:
 Estação Hack
