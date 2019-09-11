@@ -14,7 +14,7 @@ Em 11 de Setembro de 2019
 
 # Palestrantes
 - [Lucas Humberto Cabrera dos Santos](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/3.pdf)
-- [Igor Conrado Alves de Lima](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/21.pdf)
+- [Igor Conrado Alves de Lima](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/21.png)
 
 # Participantes
 - [Yang Guozhang](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/4.pdf)
