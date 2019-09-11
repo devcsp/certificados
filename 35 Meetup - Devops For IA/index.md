@@ -1,5 +1,18 @@
-# Facebook Developer Circles - Certificados
+# Facebook Developer Circles
+# 35º Meetup - Devops For IA
 
-Essa página é dedicada a listar os Meetups do Developer Circles São Paulo onde foram disponibilizados Certificados de Participação. Acesse seu meetup agora e faça download do seu certificado!
+Abaixo estão disponíveis os Certificados de Participação das pessoas que estiveram presentes em nosso Meetup. Essa página também serve como área de comprovação do Certificado.
 
-- [35º Meetup - DevOps para IA](./35 Meetup - Devops For IA/index.md)
+Local:
+Estação Hack
+Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
+
+Em 11 de Setembro de 2019
+
+- [Voltar](./index.md)
+
+#Palestrantes
+
+#Participantes
+
+- [Voltar](./index.md)
