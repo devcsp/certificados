@@ -12,7 +12,7 @@ Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
 Em 11 de Setembro de 2019
 
 
-# alestrantes
+# Palestrantes
 - [Lucas Humberto Cabrera dos Santos](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/3.pdf)
 - [Igor Conrado Alves de Lima](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/21.pdf)
 
