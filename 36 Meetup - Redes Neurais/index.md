@@ -17,4 +17,4 @@ Em 18 de Setembro de 2019
 # Participantes
 
 
-[Voltar](https://devcsp.github.io/Certificados)
+[Voltar](https://devcsp.github.io/certificados)
