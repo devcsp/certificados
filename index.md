@@ -7,3 +7,5 @@ Acesse seu meetup agora e faça download do seu certificado!
 - [XXº Meetup - Nome do Meetup](./exemplo/index.md)
 
 - [35º Meetup - DevOps para IA](./35 Meetup - Devops For IA/index.md)
+
+- [36º Meetup - Redes Neurais Convolucionais com PyTorch](./36 Meetup - Redes Neurais/index.md)
