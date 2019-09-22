@@ -2,4 +2,4 @@
 
 Certificados do Developer Circles São Paulo. 
 
-https://devcsp.github.io/Certificados/
+https://devcsp.github.io/certificados/
