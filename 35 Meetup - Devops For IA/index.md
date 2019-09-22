@@ -62,4 +62,4 @@ Em 11 de Setembro de 2019
 - [Sergio Ricardo do Patrocinio Junior](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/46.png)
 
 
-[Voltar](https://devcsp.github.io/Certificados)
+[Voltar](https://devcsp.github.io/certificados)
