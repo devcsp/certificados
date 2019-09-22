@@ -55,6 +55,11 @@ Em 11 de Setembro de 2019
 - [Keiichi Tamashiro](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/40.png)
 - [Danilo Tharssis Cruz de Araújo](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/41.png)
 - [Catarina Manzieri](https://github.com/devcsp/certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/CertificadoCatarina.pdf)
+- [Laercio Aparecido Pedroso](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/42.png)
+- [Wallan Pereira Santos](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/43.png)
+- [Pamela de Oliveira Fidelis Pinto](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/44.png)
+- [Bruno de Almeida Luz](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/45.png)
+- [Sergio Ricardo do Patrocinio Junior](https://github.com/devcsp/Certificados/raw/master/35%20Meetup%20-%20Devops%20For%20IA/Arquivos/46.png)
 
 
 [Voltar](https://devcsp.github.io/Certificados)
