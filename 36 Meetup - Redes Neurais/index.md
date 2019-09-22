@@ -13,6 +13,7 @@ Em 18 de Setembro de 2019
 
 
 # Palestrantes
+- [Ítalo José]
 - [Fulvio Mascara](https://github.com/devcsp/certificados/raw/master/36%20Meetup%20-%20Redes%20Neurais/Arquivos/fulvio.png)
 
 # Participantes
