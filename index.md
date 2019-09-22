@@ -8,4 +8,4 @@ Acesse seu meetup agora e faça download do seu certificado!
 
 - [36º Meetup - Redes Neurais Convolucionais com PyTorch](./36 Meetup - Redes Neurais/index.md)
 
-- [37º Meetup - Construindo Aplicações Acessíveis](./37 Meetup - Construindo Aplicações Acessíveis/index.md)
+- [37º Meetup - Construindo Aplicações Acessíveis](./37 Meetup - Construindo Aplicações Acessiveis/index.md)
