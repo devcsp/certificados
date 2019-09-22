@@ -12,9 +12,9 @@ Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
 Em 26 de Setembro de 2019
 
 # Palestrantes
-- [Marcelo Adriano Barbosa Junior]
-- [Vitor Farias]
-- [Matheus Nishiyama]
+- Marcelo Adriano Barbosa Junior
+- Vitor Farias
+- Matheus Nishiyama
 
 # Participantes
 
