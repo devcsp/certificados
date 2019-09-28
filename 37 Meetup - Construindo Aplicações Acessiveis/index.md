@@ -13,6 +13,7 @@ Em 26 de Setembro de 2019
 
 # Palestrantes
 - Marcelo Adriano Barbosa Junior
+- Amaral Nunes
 - Vitor Farias
 - [Matheus Nishiyama](https://github.com/devcsp/certificados/raw/master/37%20Meetup%20-%20Construindo%20Aplica%C3%A7%C3%B5es%20Acessiveis/Arquivos/MatheusNishi.png)
 
