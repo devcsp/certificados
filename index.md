@@ -15,3 +15,5 @@ Acesse seu meetup agora e faça download do seu certificado!
 - [41º Meetup - Clean Code](./41 Meetup - Clean Code/index.md)
 
 - [42º Meetup - RxJs Avançado](./42 Meetup - RxJs Avancado/index.md)
+
+- [43º Meetup - Machine Learning](./43 Meetup - Machine Learning/index.md)
