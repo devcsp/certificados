@@ -1,0 +1,92 @@
+# Facebook Developer Circles
+# 43º Meetup - Machine Learning
+
+Abaixo estão disponíveis os Certificados de Participação das pessoas que estiveram presentes em nosso Meetup. 
+
+Essa página também serve como área de comprovação do Certificado.
+
+Local:
+Estação Hack
+Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
+
+Em 11 de Setembro de 2019
+
+# Palestrantes - WIP
+- [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
+- [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
+
+# Participantes
+- [Marcelo Adriano Barbosa Junior]()
+- [Lucas Polizeli]()
+- [Mauro  Guardarini]()
+- [Marcos Wilson Sarinho Brito]()
+- [Ivan Pimenta]()
+- [Lucas  Dauto]()
+- [Luis Henrique Neves]()
+- [Daniel Freitas]()
+- [Jackeline  Nascimento]()
+- [Yassui Kimura]()
+- [Gustavo Soares]()
+- [Erison Lopes]()
+- [Vinicius Gasiunas]()
+- [Lukan Vanderlinde]()
+- [Grayce  de Deus Ferreira]()
+- [Rodrigo Gregório Neri]()
+- [Matheus Macedo]()
+- [Rafael Bianchi]()
+- [Larissa Sousa]()
+- [Rafaela Ramos Santana]()
+- [LUCAS BARROS TEIXEIRA]()
+- [Iran Lemos]()
+- [Michelle Lais]()
+- [Nina Choi]()
+- [Yang Guozhang]()
+- [Rafael  Hieda]()
+- [Camilo Micheletto]()
+- [Laercio  Pedroso]()
+- [Agnes Ruescas]()
+- [Robson  Araujo Carmo]()
+- [Katia Canto]()
+- [Letícia  Ferraz]()
+- [Arthur Silva]()
+- [Victor Barreto]()
+- [Thiago Farias]()
+- [Larissa  Miranda]()
+- [Gabrielly Rodrigues]()
+- [Pablo Santos]()
+- [Danilo Righetto]()
+- [Everton Dos Santos Costa]()
+- [Pâmela Fidelis]()
+- [Lara Marinelli]()
+- [Marcel Uehara]()
+- [Gustavo Guimarães Silva]()
+- [Eduardo Nunes]()
+- [Ramon Pereira]()
+- [Otavio Asatomi Silva  Sato]()
+- [Adriano Dos Santos Rodrigues Da Silva]()
+- [Thiago Leite Rodrigues]()
+- [Alexandre Soares]()
+- [Alexandre Campos Berbe]()
+- [Rafael Gallo]()
+- [Jacqueline Garutti Lopes]()
+- [Victor Gushiken]()
+- [José Ahirton Batista Lopes Filho]()
+- [Renan Lima Andrade]()
+- [Paola Brito de Paula]()
+- [Vitor Farias]()
+- [Evelin Haslinger]()
+- [Victor Barbosa]()
+- [Stephany Oliveira]()
+- [Mariele Florencio]()
+- [Alestan Alves]()
+- [Victor Antônio]()
+- [Marcello Caron]()
+- [Daniel Ferreira silva]()
+- [Marcos Aparecido dos Santos Gotado]()
+- [ITALO JOSE DE OLIVEIRA]()
+- [João Lucas]()
+- [Felipe Daniel De Souza]()
+- [Heitor Dourado Alvarez]()
+- [Eliane Lima Rodrigues]()
+
+[Voltar](https://devcsp.github.io/certificados)
