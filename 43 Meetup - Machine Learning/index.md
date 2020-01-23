@@ -9,7 +9,7 @@ Local:
 Estação Hack
 Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
 
-Em 11 de Setembro de 2019
+Em 22 de janeiro de 2020
 
 # Palestrantes - WIP
 - [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
@@ -36,7 +36,7 @@ Em 11 de Setembro de 2019
 - [Rafael Bianchi](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/18.pdf)
 - [Larissa Sousa](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/19.pdf)
 - [Rafaela Ramos Santana](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/20.pdf)
-- [LUCAS BARROS TEIXEIRA](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/21.pdf)
+- [Lucas Barros Teixeira](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/21.pdf)
 - [Iran Lemos](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/22.pdf)
 - [Michelle Lais](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/23.pdf)
 - [Nina Choi](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/24.pdf)
@@ -83,7 +83,7 @@ Em 11 de Setembro de 2019
 - [Marcello Caron](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/65.pdf)
 - [Daniel Ferreira silva](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/66.pdf)
 - [Marcos Aparecido dos Santos Gotado](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/67.pdf)
-- [ITALO JOSE DE OLIVEIRA](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/68.pdf)
+- [Italo Jose](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/68.pdf)
 - [João  Lucas](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/69.pdf)
 - [Felipe Daniel De Souza](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/70.pdf)
 - [Heitor Dourado Alvarez](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/71.pdf)
