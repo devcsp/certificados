@@ -11,10 +11,6 @@ Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
 
 Em 22 de janeiro de 2020
 
-# Palestrantes - WIP
-- [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
-- [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
-
 # Participantes
 - [Marcelo Adriano Barbosa Junior](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/1.pdf)
 - [Lucas Polizeli](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/2.pdf)
