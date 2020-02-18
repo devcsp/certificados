@@ -1,0 +1,92 @@
+# Facebook Developer Circles
+# 43º Meetup - Machine Learning
+
+Abaixo estão disponíveis os Certificados de Participação das pessoas que estiveram presentes em nosso Meetup. 
+
+Essa página também serve como área de comprovação do Certificado.
+
+Local:
+Estação Hack
+Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
+
+Em 22 de janeiro de 2020
+
+# Palestrantes - WIP
+- [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
+- [Nome do Palestrante 1](https://github.com/devcsp/Certificados/raw/master/exemplo/Arquivos/Certificado_De_Participacao_Modelo_Palestrante.pdf)
+
+# Participantes
+- [Marcelo Adriano Barbosa Junior](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/1.pdf)
+- [Lucas Polizeli](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/2.pdf)
+- [Mauro  Guardarini](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/3.pdf)
+- [Marcos Wilson Sarinho Brito](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/4.pdf)
+- [Ivan Pimenta](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/5.pdf)
+- [Lucas  Dauto](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/6.pdf)
+- [Luis Henrique Neves](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/7.pdf)
+- [Daniel Freitas](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/8.pdf)
+- [Jackeline  Nascimento](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/9.pdf)
+- [Yassui Kimura](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/10.pdf)
+- [Gustavo Soares](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/11.pdf)
+- [Erison Lopes](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/12.pdf)
+- [Vinicius Gasiunas](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/13.pdf)
+- [Lukan Vanderlinde](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/14.pdf)
+- [Grayce  de Deus Ferreira](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/15.pdf)
+- [Rodrigo Gregório Neri](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/16.pdf)
+- [Matheus Macedo](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/17.pdf)
+- [Rafael Bianchi](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/18.pdf)
+- [Larissa Sousa](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/19.pdf)
+- [Rafaela Ramos Santana](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/20.pdf)
+- [Lucas Barros Teixeira](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/21.pdf)
+- [Iran Lemos](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/22.pdf)
+- [Michelle Lais](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/23.pdf)
+- [Nina Choi](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/24.pdf)
+- [Yang Guozhang](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/25.pdf)
+- [Rafael  Hieda](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/26.pdf)
+- [Camilo Micheletto](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/27.pdf)
+- [Laercio  Pedroso](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/28.pdf)
+- [Agnes Ruescas](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/29.pdf)
+- [Robson  Araujo Carmo](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/30.pdf)
+- [Katia Canto](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/31.pdf)
+- [Letícia  Ferraz](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/32.pdf)
+- [Arthur Silva](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/33.pdf)
+- [Victor Barreto](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/34.pdf)
+- [Thiago Farias](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/35.pdf)
+- [Larissa  Miranda](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/36.pdf)
+- [Gabrielly Rodrigues](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/37.pdf)
+- [Pablo Santos](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/38.pdf)
+- [Danilo Righetto](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/39.pdf)
+- [Everton Dos Santos Costa](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/40.pdf)
+- [Pâmela Fidelis](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/41.pdf)
+- [Lara Marinelli](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/42.pdf)
+- [Marcel Uehara](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/43.pdf)
+- [Gustavo Guimarães Silva](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/44.pdf)
+- [Eduardo Nunes](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/45.pdf)
+- [Ramon Pereira](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/46.pdf)
+- [Otavio Asatomi Silva  Sato](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/47.pdf)
+- [Adriano Dos Santos Rodrigues Da Silva](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/48.pdf)
+- [Thiago Leite Rodrigues](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/49.pdf)
+- [Alexandre Soares](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/50.pdf)
+- [Alexandre Campos Berbe](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/51.pdf)
+- [Rafael Gallo](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/52.pdf)
+- [Jacqueline Garutti Lopes](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/53.pdf)
+- [Victor Gushiken](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/54.pdf)
+- [José Ahirton Batista Lopes Filho](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/55.pdf)
+- [Renan Lima Andrade](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/56.pdf)
+- [Paola Brito de Paula](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/57.pdf)
+- [Vitor Farias](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/58.pdf)
+- [Evelin Haslinger](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/59.pdf)
+- [Victor Barbosa](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/60.pdf)
+- [Stephany Oliveira](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/61.pdf)
+- [Mariele  Florencio](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/62.pdf)
+- [Alestan Alves](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/63.pdf)
+- [Victor Antônio](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/64.pdf)
+- [Marcello Caron](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/65.pdf)
+- [Daniel Ferreira silva](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/66.pdf)
+- [Marcos Aparecido dos Santos Gotado](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/67.pdf)
+- [Italo Jose](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/68.pdf)
+- [João  Lucas](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/69.pdf)
+- [Felipe Daniel De Souza](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/70.pdf)
+- [Heitor Dourado Alvarez](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/71.pdf)
+- [Eliane Lima Rodrigues](https://github.com/devcsp/certificados/raw/master/43%20Meetup%20-%20Machine%20Learning/Arquivos/72.pdf)
+
+[Voltar](https://devcsp.github.io/certificados)

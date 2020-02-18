@@ -17,3 +17,5 @@ Acesse seu meetup agora e faça download do seu certificado!
 - [42º Meetup - RxJs Avançado](./42 Meetup - RxJs Avancado/index.md)
 
 - [43º Meetup - Machine Learning](./43 Meetup - Machine Learning/index.md)
+
+- [44º Meetup - Cyber Security](./44 Meetup - Cyber Security/index.md)
