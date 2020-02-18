@@ -1,5 +1,5 @@
 # Facebook Developer Circles
-# 43º Meetup - Machine Learning
+# 44º Meetup - Cyber Security
 
 Abaixo estão disponíveis os Certificados de Participação das pessoas que estiveram presentes em nosso Meetup. 
 
@@ -9,7 +9,7 @@ Local:
 Estação Hack
 Av. Paulista, 1374 - Bela Vista, 01310-100 São Paulo
 
-Em 22 de janeiro de 2020
+Em 05 de fevereiro de 2020
 
 # Participantes
 - [Heitor Gouvêa](https://github.com/devcsp/certificados/raw/master/44%20Meetup%20-%20Cyber%20Security/Arquivos/1.pdf)
