@@ -79,7 +79,7 @@ Em 05 de fevereiro de 2020
 - [Marcelo Adriano Barbosa Junior](https://github.com/devcsp/certificados/raw/master/44%20Meetup%20-%20Cyber%20Security/Arquivos/65.pdf)
 - [Aline Souza](https://github.com/devcsp/certificados/raw/master/44%20Meetup%20-%20Cyber%20Security/Arquivos/66.pdf)
 - [Julia Cristina De Brito Passos](https://github.com/devcsp/certificados/raw/master/44%20Meetup%20-%20Cyber%20Security/Arquivos/67.pdf)
-- [Karina Hae Eu Huh](https://github.com/devcsp/certificados/raw/master/44%20Meetup%20-%20Cyber%20Security/Arquivos/68.pdf)
+- [Karina Hae Eun Huh](https://github.com/devcsp/certificados/raw/master/44%20Meetup%20-%20Cyber%20Security/Arquivos/68.pdf)
 - [Anannda Moura](https://github.com/devcsp/certificados/raw/master/44%20Meetup%20-%20Cyber%20Security/Arquivos/69.pdf)
 - [Camila Cleane](https://github.com/devcsp/certificados/raw/master/44%20Meetup%20-%20Cyber%20Security/Arquivos/70.pdf)
 
