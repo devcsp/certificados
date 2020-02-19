@@ -19,3 +19,5 @@ Acesse seu meetup agora e faça download do seu certificado!
 - [43º Meetup - Machine Learning](./43 Meetup - Machine Learning/index.md)
 
 - [44º Meetup - Cyber Security](./44 Meetup - Cyber Security/index.md)
+
+- [45º Meetup - Desenvolvimento Mobile](./45 Meetup - Desenvolvimento Mobile/index.md)
