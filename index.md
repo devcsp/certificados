@@ -21,3 +21,5 @@ Acesse seu meetup agora e faça download do seu certificado!
 - [44º Meetup - Cyber Security](./44 Meetup - Cyber Security/index.md)
 
 - [45º Meetup - Desenvolvimento Mobile](./45 Meetup - Desenvolvimento Mobile/index.md)
+
+- [46º Meetup - Women Of Developer Circles](./46 Meetup - Women Of Developer Circles/index.md)
